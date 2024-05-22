@@ -1,5 +1,5 @@
 # Multimedia
-These are 5 assignments of multimedia course made by java to implement different compression techniques 
+These are 5 java programs to implement different compression techniques 
 
 1st : implementation of lz78 technique  
 2nd: implementation of arithmetic technique  
